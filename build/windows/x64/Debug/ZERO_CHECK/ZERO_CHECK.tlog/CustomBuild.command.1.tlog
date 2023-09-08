@@ -1,0 +1,10 @@
+^C:\USERS\BRENOLEMES\DESKTOP\DART AND FLUTTER\CURSO_FLUTTER\PROJETO_PERGUNTAS\BUILD\WINDOWS\CMAKEFILES\C7A3DA6D8C43957454190FA5A5A527DA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/BrenoLemes/Desktop/Dart and Flutter/curso_flutter/projeto_perguntas/windows" "-BC:/Users/BrenoLemes/Desktop/Dart and Flutter/curso_flutter/projeto_perguntas/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/BrenoLemes/Desktop/Dart and Flutter/curso_flutter/projeto_perguntas/build/windows/projeto_perguntas.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

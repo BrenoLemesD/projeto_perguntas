@@ -1,0 +1,10 @@
+^C:\USERS\BRENOLEMES\DESKTOP\DART AND FLUTTER\CURSO_FLUTTER\PROJETO_PERGUNTAS\BUILD\WINDOWS\CMAKEFILES\C7A3DA6D8C43957454190FA5A5A527DA\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

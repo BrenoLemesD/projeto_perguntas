@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\BrenoLemes\Desktop\Dart and Flutter\curso_flutter\projeto_perguntas\build\windows\CMakeFiles\c7a3da6d8c43957454190fa5a5a527da\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ED3A213E-3DAC-375A-BD49-401823690A5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
