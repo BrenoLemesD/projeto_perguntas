@@ -19,7 +19,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
       'texto': 'Qual é a cor favorita do Breno?',
       'respostas': [
         {'texto': 'Preto', 'pontuacao': 0},
-        {'texto': 'Vermelho', 'pontuacao': 10},
+        {'texto': 'Vermelho', 'pontuacao': 5},
         {'texto': 'Verde', 'pontuacao': 0},
         {'texto': 'Branco', 'pontuacao': 0},
       ],
@@ -28,7 +28,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
       'texto': 'Qual é o animal de estimação favorito dele?',
       'respostas': [
         {'texto': 'Coelho', 'pontuacao': 0},
-        {'texto': 'Gato', 'pontuacao': 10},
+        {'texto': 'Gato', 'pontuacao': 5},
         {'texto': 'Cobra', 'pontuacao': 0},
         {'texto': 'Leão', 'pontuacao': 0},
       ],
@@ -36,7 +36,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
     {
       'texto': 'E o esporte você sabe?',
       'respostas': [
-        {'texto': 'Basquete', 'pontuacao': 10},
+        {'texto': 'Basquete', 'pontuacao': 5},
         {'texto': 'Futebol', 'pontuacao': 0},
         {'texto': 'Vôlei', 'pontuacao': 0},
         {'texto': 'Natação', 'pontuacao': 0},
